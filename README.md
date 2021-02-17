@@ -1,4 +1,4 @@
-<b>MIGIKATA @2021</b>
+<b>MIGIKATA</b>
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
         <img src="resources/userge.png" alt="Userge">
